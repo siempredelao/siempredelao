@@ -8,6 +8,7 @@
 - 🔭 Previously worked at: @quandoo, @volkswagen (through a consultancy) and @hellofresh
 - 🏠 Remote-first believer who also loves to sporadically visit the office, human interactions are essential!
 - 🌱 Currently learning: how to use AI tools effectively
+- 😅 Fun fact: I have my own Trello board to manage ad-hoc requests and organize them by priority
 - 💬 Ask me about: Kotlin, Android architecture, UX, scalability, legacy code management, mentoring
 - 🤖 Projects I've worked on (from most recent to oldest):
   - 🍝 [HelloFresh](https://play.google.com/store/apps/details?id=com.hellofresh.androidapp)
