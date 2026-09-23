@@ -14,7 +14,7 @@
   - 🍝 [HelloFresh](https://play.google.com/store/apps/details?id=com.hellofresh.androidapp)
   - 🅿️ [We Park - the parking app (by Volkswagen AG)](https://play.google.com/store/apps/details?id=de.volkswagen.wedrive.park)
   - 🍴 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny)
-  - 🍕 [Quandoo](https://play.google.com/store/apps/details?id=de.quandoo.android.consumerapp)
+  - 🍕 [Quandoo](https://play.google.com/store/apps/details?id=de.ecabo.android.booking.merchant)
   - ↔️ [Distance From Me](https://play.google.com/store/apps/details?id=gc.david.dfm)
   - 🎓 [NotifiKRtera (final degree project)](https://www.youtube.com/watch?v=vcOxi-x7VqU)
 
