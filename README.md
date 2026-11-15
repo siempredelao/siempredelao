@@ -10,11 +10,14 @@
 - 🌱 Currently learning: how to use AI tools effectively
 - 😅 Fun fact: I have my own Trello board to manage ad-hoc requests and organize them by priority
 - 💬 Ask me about: Kotlin, Android architecture, UX, scalability, legacy code management, mentoring
-- 🤖 Projects I've worked on (from most recent to oldest):
+- 💼 Professional projects (from most recent to oldest):
   - 🍝 [HelloFresh](https://play.google.com/store/apps/details?id=com.hellofresh.androidapp)
   - 🅿️ [We Park - the parking app (by Volkswagen AG)](https://play.google.com/store/apps/details?id=de.volkswagen.wedrive.park)
-  - 🍴 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny)
   - 🍕 [Quandoo](https://play.google.com/store/apps/details?id=de.ecabo.android.booking.merchant)
+- 🛠️ Side projects & open source (from most recent to oldest):
+  - 🎲 [Cephalopod](https://play.google.com/store/apps/details?id=gc.david.cephalopod)
+  - ⚫ [Dipole](https://play.google.com/store/apps/details?id=gc.david.dipole)
+  - 🍴 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny)
   - ↔️ [Distance From Me](https://play.google.com/store/apps/details?id=gc.david.dfm)
   - 🎓 [NotifiKRtera (final degree project)](https://www.youtube.com/watch?v=vcOxi-x7VqU)
 
