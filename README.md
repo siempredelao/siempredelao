@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm David 👋😃</h1>
-<h4 align="center">A Senior Android/Kotlin developer with some knowledge of React Native, always tinkering with something on the side.</h4>
+<h4 align="center">A Senior Android/Kotlin developer with some knowledge of Flutter, KMP, and React Native, always tinkering with something on the side.</h4>
 
 ### About me
 
